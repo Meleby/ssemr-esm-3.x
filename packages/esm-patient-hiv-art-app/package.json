@@ -1,5 +1,5 @@
 {
-  "name": "@ssemr/esm-patient-hiv-art-app",
+  "name": "@ssemreregister/esm-patient-hiv-art-app",
   "version": "0.0.1",
   "license": "MPL-2.0",
   "description": "Patient dashboard microfrontend for the OpenMRS SPA",

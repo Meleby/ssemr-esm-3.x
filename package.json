@@ -1,5 +1,5 @@
 {
-  "name": "@ssemr/esm-ssem3.x-apps",
+  "name": "@ssemreregister/esm-ssem3.x-apps",
   "private": true,
   "workspaces": [
     "packages/*"
